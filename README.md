@@ -38,7 +38,7 @@ User
 - App
 - API
 - Db
-- 
+
  ### Packages
 - **Frontend**
   - React
