@@ -38,10 +38,8 @@ User
 - App
 - API
 - Db
+- 
  ### Packages
-
- ### Packages
-
 - **Frontend**
   - React
   - TailwindCSS
