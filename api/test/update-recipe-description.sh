@@ -1,0 +1,1 @@
+curl -X PATCH http://localhost:8080/recipes/6800ae9316bb7fd775dd081f/description -H 'Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2N2ZhYjc5Njc5ZjY2YWNlMGUyYzI5Y2MiLCJpYXQiOjE3NDQ4OTg2MjUsImV4cCI6MTc0NDkwMjIyNX0.5J0sEs6EkQF6WNT7nScTNqV_q91CXFt5lFSURBUJDto' -H 'Content-type: application/json' -d '{"description":"hello world"}' -v
