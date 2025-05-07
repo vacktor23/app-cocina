@@ -1,4 +1,4 @@
-# Aplicacion CocinArte (falta definir nombre)
+# Aplicacion CocinArte
 
 ## Intro
 
